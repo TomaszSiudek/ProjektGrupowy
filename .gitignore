@@ -1,0 +1,5 @@
+# Dodawaj .gitignore przed pierwszym commit'em
+.idea/
+
+#wszystkie pliki których nazwa/rozszerzenie kończy się .iml
+*.iml
